@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"Stirling_numbers.md","id":"1d01cda9c18c9b9a","x":-520,"y":-280,"width":400,"height":400},
+		{"type":"file","file":"Combinatrics.md","id":"9e41d0b2499bb3f6","x":20,"y":-290,"width":400,"height":420}
+	],
+	"edges":[
+		{"id":"43abfa8d0c88419a","fromNode":"9e41d0b2499bb3f6","fromSide":"left","toNode":"1d01cda9c18c9b9a","toSide":"right"}
+	]
+}
